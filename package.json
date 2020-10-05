@@ -1,0 +1,22 @@
+{
+  "name": "caesar-cipher",
+  "version": "1.0.0",
+  "description": "Caesar cipher CLI tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Holenvik/Caesar.git"
+  },
+  "author": "Holenvik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Holenvik/Caesar/issues"
+  },
+  "homepage": "https://github.com/Holenvik/Caesar#readme",
+  "dependencies": {
+    "commander": "^6.1.0"
+  }
+}
